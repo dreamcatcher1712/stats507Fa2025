@@ -1,2 +1,2 @@
-# stats507Fa2025
+# Stats 507
 Course material for stats 507 Fall 2025
