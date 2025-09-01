@@ -1,2 +1,2 @@
 # Stats 507
-Course material for stats 507 Fall 2025
+Stats 507 explores the software tools commonly used by data scientists today. The course starts by introducing programming in Python and then moves on to key elements of the scientific computing, including numpy, scipy, pandas, and scikit-learn. Additional topics include version control with git, working with databases and SQL, and a concluding introduction to deep learning with PyTorch.
